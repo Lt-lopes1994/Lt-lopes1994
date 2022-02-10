@@ -24,5 +24,10 @@
   <a href="https://www.linkedin.com/in/bruno-mantovan-lopes-c501a54tb532/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5519988319510" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%200B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://t.me/Bruno_mantovan_lopes" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+
+<div align="center">
+  <strong>Se quiser bater um papo, estou aberto para propostas!!</strong> <br> <img height="137" width="237" src=https://user-images.githubusercontent.com/83840795/153515365-78432579-3ffb-4ab2-8dcd-072609b96ea8.gif>  
+</div>
+
 </div>
 
