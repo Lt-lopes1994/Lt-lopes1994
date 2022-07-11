@@ -3,7 +3,7 @@
 </div>
  
  <div align="center" margin="30">
-  Meu nome é Bruno e sou um estutande de programação em formação na Cubos academy! Cada dia mais preparado pro mercado. 
+  Meu nome é Bruno e sou um estutande de programação formado na Cubos academy! Cada dia mais preparado pro mercado. 
   Fã de Star Wars de carteirinha, gamer louco e apaixonado por cozinhar! Formado em gastrônomia e começando uma migração de area para tecnologia! Leio muito   sci-fi e documentação no MDN <br> <img height="50" width="90" src=https://user-images.githubusercontent.com/83840795/153513115-b7f0df68-c3c1-496f-b9a5-15866552e58a.gif>
 </div>
  
