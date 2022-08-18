@@ -11,6 +11,8 @@
   <a href="https://github.com/Lt-lopes1994">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lt-lopes1994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lt-lopes1994&layout=compact&langs_count=7&theme=dark"/>
+   ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lt-lopes1994&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 </div> 
 <br>
 
