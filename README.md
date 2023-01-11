@@ -9,7 +9,7 @@
 
 <div align="center" margin="30"> 
  Atualmente estou cursando graduação em Analise e desenvolvimento de sistemas buscando melhorar e aprimorar meus conhecimentos
-<\div>
+</div>
  
 <div align="center">
   <a href="https://github.com/Lt-lopes1994">
