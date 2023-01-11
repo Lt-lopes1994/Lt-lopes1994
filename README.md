@@ -36,15 +36,8 @@
   <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    
 </div>
-<br>
-</div>
-🚧 <strong>Atualmente estou estudando:</strong> 🚧
  <br>
- 
-<img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original-wordmark.svg" />
-<img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original-wordmark.svg" />
-
-<div> <br> 
+ <br> 
   <p>📩 Meios de contato: 📲</p>
   <a href="https://www.instagram.com/bruno_mantovan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunomantovanlopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
