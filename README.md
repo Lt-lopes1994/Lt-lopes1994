@@ -7,7 +7,7 @@
   Fã de Star Wars de carteirinha, gamer louco e apaixonado por cozinhar! Formado em gastrônomia e começando uma migração de area para tecnologia! Leio muito sci-fi e documentação no MDN <br> <img height="85" width="190" src=https://user-images.githubusercontent.com/83840795/153513115-b7f0df68-c3c1-496f-b9a5-15866552e58a.gif>
 </div>
 
-<div align="center" margin="30"> 
+<div align="center" margin="30" marginBottom="15"> 
  Atualmente estou cursando graduação em Analise e desenvolvimento de sistemas buscando melhorar e aprimorar meus conhecimentos
 </div>
  
