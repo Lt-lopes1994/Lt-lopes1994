@@ -6,6 +6,10 @@
   Meu nome é Bruno e sou um recém-formado na Cubos academy no curso de Full-stack! Cada dia mais preparado pro mercado. 
   Fã de Star Wars de carteirinha, gamer louco e apaixonado por cozinhar! Formado em gastrônomia e começando uma migração de area para tecnologia! Leio muito sci-fi e documentação no MDN <br> <img height="85" width="190" src=https://user-images.githubusercontent.com/83840795/153513115-b7f0df68-c3c1-496f-b9a5-15866552e58a.gif>
 </div>
+
+<div align="center" margin="30"> 
+ Atualmente estou cursando graduação em Analise e desenvolvimento de sistemas buscando melhorar e aprimorar meus conhecimentos
+<\div>
  
 <div align="center">
   <a href="https://github.com/Lt-lopes1994">
@@ -27,17 +31,20 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+  <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    
 </div>
 <br>
 </div>
 🚧 <strong>Atualmente estou estudando:</strong> 🚧
  <br>
- <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
- <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
- <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                            
-<div> <br>
+ 
+<img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original-wordmark.svg" />
+<img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original-wordmark.svg" />
+
+<div> <br> 
   <p>📩 Meios de contato: 📲</p>
   <a href="https://www.instagram.com/bruno_mantovan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunomantovanlopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
