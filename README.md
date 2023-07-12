@@ -34,7 +34,8 @@
   <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
   <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   
+  <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongo/mongo-original-wordmark.svg" />
+
 </div>
  <br>
  <br> 
