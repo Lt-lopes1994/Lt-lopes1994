@@ -90,3 +90,8 @@ Além da programação, também sou apaixonado por **culinária**, **Star Wars**
   <p>Estou aberto a novas oportunidades, parcerias ou até um papo sobre tech e café ☕</p>
   <img src="https://user-images.githubusercontent.com/83840795/153515365-78432579-3ffb-4ab2-8dcd-072609b96ea8.gif" height="137" width="237" alt="Animated Conversation GIF">
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lt-lopes1994/Lt-lopes1994/output/github-contribution-grid-snake.svg" alt="snake gif">
+</div>
+
