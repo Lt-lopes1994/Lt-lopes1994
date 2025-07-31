@@ -133,4 +133,10 @@ Além da programação, também sou apaixonado por **culinária**, **Star Wars**
   <img src="https://user-images.githubusercontent.com/83840795/153515365-78432579-3ffb-4ab2-8dcd-072609b96ea8.gif" height="137" width="237" alt="Animated Conversation GIF">
 </div>
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lt-lopes1994/Lt-lopes1994/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lt-lopes1994/Lt-lopes1994/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Lt-lopes1994/Lt-lopes1994/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
