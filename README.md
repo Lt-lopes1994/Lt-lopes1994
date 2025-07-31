@@ -92,6 +92,5 @@ Além da programação, também sou apaixonado por **culinária**, **Star Wars**
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lt-lopes1994/Lt-lopes1994/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://raw.githubusercontent.com/Lt-lopes1994/Lt-lopes1994/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
-
