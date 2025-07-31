@@ -1,0 +1,30 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda diariamente à meia-noite UTC
+  workflow_dispatch: # permite rodar manualmente pelo GitHub
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: 🐍 Gerar cobrinha de commits
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Lt-lopes1994
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: 📤 Commit e push do SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: snake-bot
+          author_email: snake@users.noreply.github.com
+          message: "✨ Gerando cobrinha de commits"
+          add: "output/*.svg"
