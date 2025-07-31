@@ -15,8 +15,19 @@ Besides programming, I am passionate about cooking, Star Wars, and science ficti
 
 📘 FullCycle Bootcamp – Architecture and DevOps (in progress)
 
-🛠️ Technologies and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor.shields.io/badge/-React-61DAFB?style=flat-square&logo.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.jsields.io/badge/-Node.js-339933?style=flat-square&logo=nodeJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColorimg.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff.io/badge/-Git-F05032?style=flat-square&logo=git&logo://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=fff GitHub Stats
+### 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
 
 <div align="center"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lt-lopes1994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lt-lopes1994&layout=compact&langs_count=7&theme=dark"/> </div>
 🏆 GitHub Trophies
